@@ -68,3 +68,5 @@ D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\MultitenancyWebAPI\obj\Debu
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\MultitenancyWebAPI\obj\Debug\net5.0\ref\MultitenancyWebAPI.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\MultitenancyWebAPI\obj\Debug\net5.0\MultitenancyWebAPI.pdb
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\MultitenancyWebAPI\obj\Debug\net5.0\MultitenancyWebAPI.genruntimeconfig.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\MultitenancyWebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\MultitenancyWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
