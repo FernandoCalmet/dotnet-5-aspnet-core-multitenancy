@@ -1,0 +1,12 @@
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\bin\Debug\net5.0\Multitenancy.Core.deps.json
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\bin\Debug\net5.0\Multitenancy.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\bin\Debug\net5.0\ref\Multitenancy.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\bin\Debug\net5.0\Multitenancy.Core.pdb
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.AssemblyInfoInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.AssemblyInfo.cs
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\ref\Multitenancy.Core.dll
+D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Core\obj\Debug\net5.0\Multitenancy.Core.pdb
