@@ -11,7 +11,6 @@ D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\Multitenancy.Infrastructure.AssemblyInfoInputs.cache
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\Multitenancy.Infrastructure.AssemblyInfo.cs
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\Multitenancy.Infrastructure.csproj.CoreCompileInputs.cache
-D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\Multitenancy.Infrastructure.csproj.CopyComplete
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\Multitenancy.Infrastructure.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\ref\Multitenancy.Infrastructure.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-Multitenancy\Multitenancy.Infrastructure\obj\Debug\net5.0\Multitenancy.Infrastructure.pdb
