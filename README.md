@@ -2,6 +2,29 @@
 
 Project sample with CS ASPNET Core for Multitenancy
 
+## Setup:
+
+Create/Update DB migration
+
+```bash
+update-database
+```
+
+## Migrations
+
+Add new migration
+
+```bash
+add-migration "example name migration"
+update-database
+```
+
+Delete database
+
+```bash
+drop-database
+```
+
 ---
 
 :octocat: [Follow me](https://github.com/FernandoCalmet)
