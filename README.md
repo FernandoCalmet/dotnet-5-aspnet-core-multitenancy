@@ -55,15 +55,15 @@ Cuando sus inquilinos están preocupados por la seguridad de los datos y tienen 
 En este enfoque, cada uno de los inquilinos puede disfrutar de una base de datos separada y, por lo tanto, completar el aislamiento y la seguridad de los datos. Esta es la solución más preferida cuando se trata de multipropiedad.
 
 ```text
-SQLServer
-    |
-    --- Databases
-            |
-            --- [dbo].[alpha]
-            |
-            --- [dbo].[beta]
-            |
-            --- [dbo].[gamma]
+SQLServer  
+    |  
+    --- Databases  
+            |  
+            --- [dbo].[alpha]  
+            |  
+            --- [dbo].[beta]  
+            |  
+            --- [dbo].[gamma]  
 ```
 
 ### Enfoque híbrido
