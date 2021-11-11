@@ -72,6 +72,26 @@ Aquí hay un enfoque interesante, donde diseñamos una aplicación que puede per
 
 ---
 
+## Identificación De Inquilinos
+
+### Cadena de consulta
+
+Este es un mecanismo simple, en el que el inquilino puede identificarse mediante una cadena de consulta. Es tan simple como pasar ``'? TenantId = alpha'`` en la URL de la solicitud y la aplicación llega a saber que esta solicitud es para inquilinos alfa. Como esta estrategia tiene varias vulnerabilidades, se recomienda utilizar este enfoque solo para fines de prueba y desarrollo.
+
+### Solicitar dirección IP
+
+Aquí, asumimos que cada solicitud de inquilino se generará a partir de un rango de IP particular. Una vez que se establece un rango de IP para un inquilino, la aplicación puede detectar a qué inquilino pertenece. Aunque este es un enfoque seguro, no siempre es conveniente utilizarlo.
+
+### Encabezado de solicitud
+
+Esta es una estrategia más sólida para identificar a los inquilinos. Cada una de las solicitudes tendrá un encabezado con TenantID. Luego, la aplicación atiende la solicitud para ese inquilino en particular. Se recomienda utilizar este enfoque al solicitar tokens de autenticación únicamente.
+
+### Reclamación
+
+Una forma más segura de detectar inquilinos. En los sistemas donde los tokens JWT están involucrados para la autenticación, el tenantId del usuario se puede codificar en los reclamos del token. Este enfoque garantiza que la solicitud esté autenticada y pertenezca a un usuario del inquilino mencionado.
+
+---
+
 :octocat: [Follow me](https://github.com/FernandoCalmet)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
