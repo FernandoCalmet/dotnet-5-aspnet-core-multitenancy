@@ -70,8 +70,6 @@ SQLServer
 
 Aquí hay un enfoque interesante, donde diseñamos una aplicación que puede permitir a los inquilinos elegir si necesitan una base de datos separada o compartida. Esto puede ser importante cuando sabe que no todos los inquilinos van a tener un uso elevado de la base de datos. A los inquilinos que utilizan la base de datos de forma mínima se les puede asignar el uso de la base de datos compartida, mientras que los inquilinos con mayor uso intensivo de datos pueden optar por tener una base de datos separada. Esto también tiene un impacto económico positivo.
 
----
-
 ## Identificación De Inquilinos
 
 ### Cadena de consulta
