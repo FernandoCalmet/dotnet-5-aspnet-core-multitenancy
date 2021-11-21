@@ -1,14 +1,43 @@
-# CS ASPNET Core Multitenancy
+# 🦄 C# ASP.NET CORE 5 MULTITENANCY
 
-Proyecto para ejemplificar la multiple tenencia en una aplicación.
+[![Github][github-shield]][github-url]
+[![Kofi][kofi-shield]][kofi-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Khanakat][khanakat-shield]][khanakat-url]
 
-## Configuración:
+## TABLA DE CONTENIDO
 
-Migrar base de datos
+* [Acerca del proyecto](#acerca-del-proyecto)
+* [Instalación](#instalación)
+* [Resumen teórico](#resumen-teórico)
+* [Dependencias](#dependencias)
+* [Licencia](#licencia)
+
+## 🔥 ACERCA DEL PROYECTO
+
+Este proyecto es una muestra de una aplicación de multiple tenencia. Se utilizo ``ASP.NET Core 5`` con C#.
+
+## ⚙️ INSTALACIÓN
+
+Clonar el repositorio.
+
+```bash
+gh repo clone FernandoCalmet/CS-ASPNET-Core-Multitenancy
+```
+
+Crear la migración de base de datos
 
 ```bash
 update-database
 ```
+
+Ejecutar aplicación.
+
+```bash
+dotnet run
+```
+
+## 📓 RESUMEN TEÓRICO
 
 ## ¿Qué Es MultiTenancy?
 
@@ -88,8 +117,25 @@ Esta es una estrategia más sólida para identificar a los inquilinos. Cada una 
 
 Una forma más segura de detectar inquilinos. En los sistemas donde los tokens JWT están involucrados para la autenticación, el tenantId del usuario se puede codificar en los reclamos del token. Este enfoque garantiza que la solicitud esté autenticada y pertenezca a un usuario del inquilino mencionado.
 
----
+## 📥 DEPENDENCIAS
 
-:octocat: [Follow me](https://github.com/FernandoCalmet)
+- [Microsoft.VisualStudio.Web.CodeGeneration.Design](https://www.nuget.org/packages/Microsoft.VisualStudio.Web.CodeGeneration.Design/) : Herramienta de generación de código para ASP.NET Core. Contiene el comando dotnet-aspnet-codegenerator que se usa para generar controladores y vistas.
+- [Swashbuckle.AspNetCore](https://www.nuget.org/packages/Swashbuckle.AspNetCore/) : Herramientas Swagger para documentar API creadas en ASP.NET Core.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+## 📄 LICENCIA
+
+Este proyecto está bajo la Licencia (Licencia MIT) - mire el archivo [LICENSE](LICENSE) para más detalles.
+
+## ⭐️ DAME UNA ESTRELLA
+
+Si esta Implementación le resultó útil o la utilizó en sus Proyectos, déle una estrella. ¡Gracias! O, si te sientes realmente generoso, [¡Apoye el proyecto con una pequeña contribución!](https://ko-fi.com/fernandocalmet).
+
+<!--- reference style links --->
+[github-shield]: https://img.shields.io/badge/-@fernandocalmet-%23181717?style=flat-square&logo=github
+[github-url]: https://github.com/fernandocalmet
+[kofi-shield]: https://img.shields.io/badge/-@fernandocalmet-%231DA1F2?style=flat-square&logo=kofi&logoColor=ff5f5f
+[kofi-url]: https://ko-fi.com/fernandocalmet
+[linkedin-shield]: https://img.shields.io/badge/-fernandocalmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocalmet
+[linkedin-url]: https://www.linkedin.com/in/fernandocalmet
+[khanakat-shield]: https://img.shields.io/badge/khanakat.com-brightgreen?style=flat-square
+[khanakat-url]: https://khanakat.com

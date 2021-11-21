@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2xXHBmCcWYqIpy4WbCLaLnJK7DT/z3FxzsLt04D1FqbLB/CW3Xf7oWhPkMEm4NQ0pwNsi1got0nzI9Xp+IchBg==",
+  "dgSpecHash": "XT5DOcoR6tPdC0ckrZIyGHyIaN+crbLxqrbSVMeluD3ANHRrDq2nhhUerFQUojHKPIqR8unNsL1hL3kmq/gCjA==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Multitenancy\\Multitenancy.Infrastructure\\Multitenancy.Infrastructure.csproj",
   "expectedPackageFiles": [

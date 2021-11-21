@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BDquUecOF4QdYL2zKYkzAJTENUZIfFSfqh3FkfGCkClpNIVDPGgQ/+vxXKwPJ0QotQnRLVQHPuP4tMf43ofGTg==",
+  "dgSpecHash": "8G3p2zoKpkbPNi8JXWajse5sdKrx07xK7+xs0xwfntXOwfQr7Q1NQUoH3H2/x/fjBxnzUu8uoqFqy8tFQ2d7Uw==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Multitenancy\\MultitenancyWebAPI\\MultitenancyWebAPI.csproj",
   "expectedPackageFiles": [
