@@ -22,7 +22,7 @@ Este proyecto es una muestra de una aplicación de multiple tenencia. Se utilizo
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-Multitenancy
+gh repo clone FernandoCalmet/dotnet-5-aspnet-core-multitenancy
 ```
 
 Crear la migración de base de datos
